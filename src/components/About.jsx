@@ -47,9 +47,9 @@ export default function About() {
           Precision is the job, not a bonus feature.
         </h2>
         <p className="text-slate-400 max-w-2xl leading-relaxed mb-14">
-          I'm a Software QA Engineer and R&amp;D Specialist who treats every
+          I'm a Software QA Engineer who treats every
           feature like an unverified claim until proven otherwise. My
-          background spans aerospace-adjacent R&amp;D, high-volume API
+          background spans aerospace-adjacent, high-volume API
           validation, and physical-device mobile testing — work that rewards
           patience, structured thinking, and an instinct for where systems
           quietly fail. I don't just file bugs; I document them so clearly

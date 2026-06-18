@@ -8,31 +8,30 @@ export default function Footer() {
           © {year} Prathmesh Marwalikar — built with intent, tested with care.
         </p>
 
-        <div className="flex items-center gap-5 font-mono text-xs">
-          {/* Update these href values with real profile links */}
-          <a
-            href="mailto:prathmesh.marwalikar@example.com"
-            className="text-slate-400 hover:text-cyan transition-colors"
-          >
-            email
-          </a>
-          <a
-            href="https://github.com/"
-            target="_blank"
-            rel="noreferrer"
-            className="text-slate-400 hover:text-cyan transition-colors"
-          >
-            github
-          </a>
-          <a
-            href="https://www.linkedin.com/"
-            target="_blank"
-            rel="noreferrer"
-            className="text-slate-400 hover:text-cyan transition-colors"
-          >
-            linkedin
-          </a>
-        </div>
+     <div className="flex items-center gap-5 font-mono text-xs">
+      <a 
+        href="mailto:prathmeshmarwalikar1@gmail.com"
+        className="text-slate-400 hover:text-cyan transition-colors"
+      >
+        email
+      </a>
+      <a 
+        href="https://github.com/prathm29827" 
+        target="_blank" 
+        rel="noreferrer"
+        className="text-slate-400 hover:text-cyan transition-colors"
+      >
+        github
+      </a>
+      <a 
+        href="https://www.linkedin.com/in/prathmesh-marwalikar" 
+        target="_blank" 
+        rel="noreferrer"
+        className="text-slate-400 hover:text-cyan transition-colors"
+      >
+        linkedin
+      </a>
+    </div>
       </div>
     </footer>
   );

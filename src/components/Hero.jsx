@@ -18,7 +18,7 @@ export default function Hero() {
             Marwalikar
           </h1>
           <p className="mt-4 font-mono text-cyan text-sm sm:text-base">
-            Software QA Engineer / R&amp;D Specialist
+            Software QA Engineer / API Tester / Mobile Testing Specialist
           </p>
           <p className="mt-6 text-slate-400 text-base sm:text-lg max-w-xl leading-relaxed">
             Breaking code to make it unbreakable. Specialized in API
